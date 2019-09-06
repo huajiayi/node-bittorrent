@@ -1,0 +1,32 @@
+{
+  "name": "node-bittorrent",
+  "version": "0.0.1",
+  "description": "BitTorrent DHT implementation in node",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "sudo node sample/index.js",
+    "demo": "pm2 start demo.js"
+  },
+  "dependencies": {
+    "bencode": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huajiayi/node-bittorrent.git"
+  },
+  "keywords": [
+    "dht",
+    "node",
+    "bittorrent"
+  ],
+  "author": "Joey Hua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huajiayi/node-bittorrent/issues"
+  },
+  "homepage": "https://github.com/huajiayi/node-bittorrent#readme"
+}
