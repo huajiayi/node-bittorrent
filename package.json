@@ -1,6 +1,6 @@
 {
   "name": "node-bittorrent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "BitTorrent DHT implementation in node",
   "main": "index.js",
   "directories": {
