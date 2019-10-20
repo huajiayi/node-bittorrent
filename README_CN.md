@@ -1,5 +1,7 @@
 # node-bittorrent
 
+简体中文 | [English](https://github.com/huajiayi/node-bittorrent)
+
 node-bittorrent是BitTorrent协议的node实现。
 
 如果你觉得这个项目还不错，请给我点个star，万分感谢！

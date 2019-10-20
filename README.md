@@ -1,5 +1,7 @@
 # node-bittorrent
 
+[简体中文](https://github.com/huajiayi/node-bittorrent/blob/master/README_CN.md) | English
+
 node-bittorrent is a BitTorrent DHT implementation in node.
 
 If you like it, please give me a star. Thanks a lot!
